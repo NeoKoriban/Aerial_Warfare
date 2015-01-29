@@ -1,0 +1,4 @@
+su35s
+PlaneModels/RU/Su35s/su35s
+PAK T-50
+PlaneModels/RU/T50/PAK T-50

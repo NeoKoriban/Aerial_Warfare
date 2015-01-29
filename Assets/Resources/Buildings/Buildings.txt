@@ -1,0 +1,5 @@
+Buildings/BaseBuildings/HighBuild/PostSovietBuildSecond
+Buildings/BaseBuildings/LowBuild/PostSovietBuild
+Buildings/BaseBuildings/RadioTower/Model/wieza
+Buildings/CivilBuildings/Cerkiew/Model/cerkBuild
+Buildings/CivilBuildings/CottageHouse/CottageHouse

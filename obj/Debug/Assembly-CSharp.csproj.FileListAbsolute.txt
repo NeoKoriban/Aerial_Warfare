@@ -1,0 +1,13 @@
+D:\AerialWarfare\Temp\bin\Debug\Assembly-CSharp.dll
+D:\AerialWarfare\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\AerialWarfare\Temp\bin\Debug\UnityEditor.dll
+D:\AerialWarfare\Temp\bin\Debug\UnityEngine.dll
+D:\AerialWarfare\Temp\bin\Debug\Mono.Cecil.dll
+D:\AerialWarfare\Temp\bin\Debug\nunit.framework.dll
+D:\AerialWarfare\Temp\bin\Debug\Unity.DataContract.dll
+D:\AerialWarfare\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\AerialWarfare\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\AerialWarfare\obj\Debug\Assembly-CSharp.dll
+D:\AerialWarfare\obj\Debug\Assembly-CSharp.pdb
+D:\AerialWarfare\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\AerialWarfare\Temp\bin\Debug\Assembly-CSharp.XML
